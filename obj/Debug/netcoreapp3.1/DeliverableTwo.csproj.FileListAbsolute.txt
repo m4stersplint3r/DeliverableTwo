@@ -1,0 +1,13 @@
+D:\Scripts\prework\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.exe
+D:\Scripts\prework\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.deps.json
+D:\Scripts\prework\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.runtimeconfig.json
+D:\Scripts\prework\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.runtimeconfig.dev.json
+D:\Scripts\prework\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.dll
+D:\Scripts\prework\DeliverableTwo\bin\Debug\netcoreapp3.1\DeliverableTwo.pdb
+D:\Scripts\prework\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.csprojAssemblyReference.cache
+D:\Scripts\prework\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.AssemblyInfoInputs.cache
+D:\Scripts\prework\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.AssemblyInfo.cs
+D:\Scripts\prework\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.csproj.CoreCompileInputs.cache
+D:\Scripts\prework\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.dll
+D:\Scripts\prework\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.pdb
+D:\Scripts\prework\DeliverableTwo\obj\Debug\netcoreapp3.1\DeliverableTwo.genruntimeconfig.cache
